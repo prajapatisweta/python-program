@@ -1,0 +1,15 @@
+label_4 =Label(root,text="Gender", width=20,font=("times",10))
+# label_4.place(x=70,y=230)
+# var=IntVar()
+# Radiobutton(root,text="Male",padx= 5, variable= var, value=1).place(x=235,y=230)
+# Radiobutton(root,text="Female",padx= 20, variable= var, value=2).place(x=290,y=230)
+# label_5=Label(root,text="Hobbies",width=20,font=("times",10))
+# label_5.place(x=70,y=280)
+# list_of_country=[ 'Singing' ,'Dancing' , 'Gaming' ,'Editing' ,'Sports']
+# c=StringVar()
+# droplist=OptionMenu(root,c, *list_of_country)
+# droplist.config(width=15)
+# c.set('select your hobby')
+# droplist.place(x=240,y=280)
+
+# Button(root, text='Submit' , width=20,bg="black",fg='white').place(x=180,y=380)
