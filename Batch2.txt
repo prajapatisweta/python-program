@@ -1,0 +1,4 @@
+Welcome Batch 2! 
+We are working on Practical 6
+It is based on File Handling concepts
+It works on reading and writing of file
